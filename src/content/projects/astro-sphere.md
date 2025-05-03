@@ -1,6 +1,6 @@
 ---
 title: "Carrerly"
-description: "Job finder web app."
+description: "Job finder web app"
 date: "Mar 18 2024"
 draft: false
 slug: "astro-sphere"
