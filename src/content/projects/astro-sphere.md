@@ -1,6 +1,6 @@
 ---
-title: "Astro Sphere"
-description: "Portfolio and blog build with astro."
+title: "Carrerly"
+description: "Job finder web app."
 date: "Mar 18 2024"
 draft: false
 slug: "astro-sphere"
