@@ -1,11 +1,11 @@
 import type { Site, Metadata, Socials } from "@/types";
 
 export const SITE: Site = {
-    NAME: "Lakshmanshankar",
-    EMAIL: "lakshmanshankarc@gmail.com",
+    NAME: "Manikandan Kalyanasundaram",
+    EMAIL: "manikandanvisualdesigner@gmail.com",
     NUM_POSTS_ON_HOMEPAGE: 3,
     NUM_WORKS_ON_HOMEPAGE: 3,
-    NUM_PROJECTS_ON_HOMEPAGE: 2,
+    NUM_PROJECTS_ON_HOMEPAGE: 1,
 };
 
 export const HOME: Metadata = {
@@ -38,22 +38,18 @@ export const PROJECTS: Metadata = {
 export const SOCIALS: Socials = [
     {
         NAME: "github",
-        HREF: "https://github.com/Lakshmanshankar",
+        HREF: "https://github.com/manikandan-kalyanasundaram/",
     },
     {
-        NAME: "twitter",
-        HREF: "https://twitter.com/10Lakshman",
+        NAME: "behance",
+        HREF: "https://www.behance.net/Manikandan_kalyan",
     },
     {
         NAME: "linkedin",
-        HREF: "https://linkedin.com/in/Lakshmanshankar",
+        HREF: "https://www.linkedin.com/in/manikandan-kalyanasundaram-a567b6243/",
     },
     {
-        NAME: "Medium",
-        HREF: "https://medium.com/@lakshmanashankrc",
-    },
-    {
-        NAME: "Leetcode",
-        HREF: "https://leetcode.com/lakshmanashankrc",
+        NAME: "dribble",
+        HREF: "https://dribble.com/Manikandan_Kalyanasundaram",
     },
 ];
