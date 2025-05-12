@@ -12,7 +12,7 @@ dateEnd: "05/05/2025"
 <a href="http://bullet.so">Bullet.so</a>
 
 A powerful and **customizable** blogging platform designed for startups and indie hackers.
-It helps users create fast, **SEO-friendly websites** with Notion-style editing and minimal setup.
+It helps users create fast, **SEO-friendly websites** with Notion-style editing and minimal setup.  
 
 <a href="http://disbug.io">Disbug.io</a>
 
